@@ -2,7 +2,9 @@
 ## A chatbot for Discord that comes with a lot of fun commands to use. Also capable of moderating servers. 
 ### Built with :heart: using Discord.JS and MongoDB.
 
-### *You can use ;;commands to get a list of all available commands.* 
+#### If you wish to take the bot for a spin, you can join this test Discord server: [https://discord.gg/2tGkW65nHT](https://discord.gg/2tGkW65nHT "https://discord.gg/2tGkW65nHT")
+
+##### *Otherwise, if you wish to host your own version of the bot, follow the steps below.* 
  
 ### Hosting the bot. 
 - First of all, you will need the secret bot token from your Discord Developer Portal.
@@ -42,5 +44,7 @@ node violet.js
 nodemon violet.js
 ```
 *Once you run this command, your bot should be up and running and will be Online in your Discord server*
+
+*Note: The YouTube music commands might not work due to changes to YouTube's API policies*
   
   
